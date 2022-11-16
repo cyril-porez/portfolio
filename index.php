@@ -13,7 +13,7 @@
 	<header>
 		<nav>
 			<div>
-				<a href="#home">Porez Cyril</a>
+				<a href="#home">Portfolio</a>
 				<ul>
 					<a href="#a-propos"><li>About</li></a>
 					<a href="#competences"><li>Skills</li></a>
@@ -40,11 +40,14 @@
 			
 			<img src="portfolio/images/firmware2.jpg" alt="image">
 			<article>
+
 				<div>
+
 					<h1><span>A</span> propos :</h1>
 				</div>				
 				<div>
-					<p>Je m'appelle <span>Cyril Porez</span>, 32ans</p>
+
+					<p>Je m'appelle <span>Cyril Porez</span>, 33ans</p>
 					
 					<p>Technicien en électronique, A la suite de mes expériences professionnelles, 
 					   j'ai décidé de m'orienter vers le développement Web.</p>
@@ -53,7 +56,7 @@
 					d'intégrer <span>La Plateforme_</span> pour me lancer dans une formation avec un apprentissage par projet.
 					Avec une forte mise en avant du travail d'équipe en utilisant la méthode agile</p>
 					
-					<p>Je recherche une <span>alternance</span> pour le mois de septembre 2022. Afin de mettre à 
+					<p>Je recherche une <span>alternance</span> pour le mois de Janvier 2023. Afin de mettre à 
 					l'épreuve les compétences acquise au cours de cette première année. Ambitieux et aimant le défi,
 					je serais ravis de mettre à votre disposition mon expérience.</p>
 				</div>
@@ -279,9 +282,9 @@
 			</article>		
 		</section>		
 		<section id="contact">			
-			<h1><span>Con</span>tact</h1>
+			<h1><span>Con</span>tact :</h1>
 			<article>
-				<p>Mon profil vous intéresse, vous souhaitez collaborer avec moi, n'hésiter pas à me Contacter !</p>
+				<p>Mon profil vous intéresse, vous souhaitez collaborer avec moi, n'hésitez pas à me Contacter !</p>
 				<div>
 					<a href="mailto:cyril.porez@laplateforme.io">Me contacter</a>
 				</div>
